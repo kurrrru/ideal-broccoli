@@ -1,5 +1,5 @@
 ---
-name: 機能説明
+name: 機能説明md
 about: 機能について
 title: ''
 labels: ''
