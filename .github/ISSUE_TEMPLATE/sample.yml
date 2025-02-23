@@ -1,6 +1,6 @@
 name: 機能説明
 description: 機能について
-title: "[機能] "
+title: ""
 labels: ["feature"]
 body:
   - type: textarea
