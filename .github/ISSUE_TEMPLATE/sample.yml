@@ -4,35 +4,54 @@ title: "[機能] "
 labels: ["feature"]
 body:
   - type: markdown
+    attributes:
+      value: |
+        ## 概要
   - type: textarea
     id: summary
     attributes:
       label: 概要
       description: 機能の概要を記述してください
   - type: markdown
+    attributes:
+      value: |
+        ## 詳細
   - type: textarea
     id: specification
     attributes:
       label: 詳細
       description: 機能の詳細を記述してください
   - type: markdown
+    attributes:
+      value: |
+        ## 影響範囲
   - type: textarea
     id: acceptance-criteria
     attributes:
       label: 影響範囲
       description: 影響範囲を記述してください
   - type: markdown
+    attributes:
+      value: |
+        ## 注意点
   - type: textarea
     id: notes
     attributes:
       label: 注意点
       description: 注意点を記述してください
+  - type: markdown
+    attributes:
+      value: |
+        ## テストケース
   - type: textarea
     id: test-cases
     attributes:
       label: テストケース
       description: テストケースを記述してください
   - type: markdown
+    attributes:
+      value: |
+        ## その他
   - type: textarea
     id: test-cases
     attributes:
