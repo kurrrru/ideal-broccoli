@@ -53,7 +53,7 @@ body:
       value: |
         ## その他
   - type: textarea
-    id: test-cases
+    id: other
     attributes:
       label: その他
       description: 他に何かあれば記述してください
