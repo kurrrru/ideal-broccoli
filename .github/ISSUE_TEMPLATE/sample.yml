@@ -35,7 +35,7 @@ body:
       value: |
         ## 注意点
   - type: textarea
-    id: acceptance-criteria
+    id: notes
     attributes:
       label: 注意点
       description: 注意点を記述してください
@@ -44,7 +44,7 @@ body:
       value: |
         ## テストケース
   - type: textarea
-    id: acceptance-criteria
+    id: test-cases
     attributes:
       label: テストケース
       description: テストケースを記述してください
