@@ -1,3 +1,12 @@
+---
+name: 機能説明
+about: 機能について
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # 機能説明
 
 機能について
