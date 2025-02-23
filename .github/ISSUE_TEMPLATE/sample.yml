@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 概要
+        # 概要
   - type: textarea
     id: summary
     attributes:
@@ -15,7 +15,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 詳細
+        # 詳細
   - type: textarea
     id: specification
     attributes:
@@ -24,7 +24,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 影響範囲
+        # 影響範囲
   - type: textarea
     id: acceptance-criteria
     attributes:
@@ -33,7 +33,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 注意点
+        # 注意点
   - type: textarea
     id: notes
     attributes:
@@ -42,7 +42,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## テストケース
+        # テストケース
   - type: textarea
     id: test-cases
     attributes:
